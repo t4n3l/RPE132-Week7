@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7", "Week7\Week7.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentsAndParameters", "ArgumentsAndParameters\ArgumentsAndParameters.csproj", "{A17FA141-E2E4-42BE-AFA5-B4C18E11D02F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{B3AFAA6C-23A5-450D-A002-3736F61BC522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountCalculator", "DiscountCalculator\DiscountCalculator.csproj", "{DBE425C2-5F61-430A-80BC-BB70F73B18A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A17FA141-E2E4-42BE-AFA5-B4C18E11D02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A17FA141-E2E4-42BE-AFA5-B4C18E11D02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A17FA141-E2E4-42BE-AFA5-B4C18E11D02F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3AFAA6C-23A5-450D-A002-3736F61BC522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AFAA6C-23A5-450D-A002-3736F61BC522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AFAA6C-23A5-450D-A002-3736F61BC522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AFAA6C-23A5-450D-A002-3736F61BC522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE425C2-5F61-430A-80BC-BB70F73B18A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE425C2-5F61-430A-80BC-BB70F73B18A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE425C2-5F61-430A-80BC-BB70F73B18A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE425C2-5F61-430A-80BC-BB70F73B18A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
